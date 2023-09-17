@@ -1,8 +1,13 @@
-# React + Vite
+# CompanyProfile2 (RDataSolution)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Dibuat Dengan
 
-Currently, two official plugins are available:
+- ReactJs ( banyak library tambahan yang variatif, mudah untuk buat desain di setiap state, komunitas yang besar, ekosistem yang kuat, state management yang efisien)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React Router Dom ( untuk routing react vanilla )
+
+- React Scroll ( untuk Scrolling antar section )
+
+- React Icons ( untuk Icon )
+
+- Styled-Components ( Komponen berbasis styling, scoped styling, maintenance lebih mudah, dapat passing props untuk pengkondisian styling)
